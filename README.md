@@ -1,5 +1,3 @@
-# smmway-autosync-cardinal
-SMMWay price autosync plugin for FunPayCardinal
 # SMMWay AutoSync для FunPayCardinal
 
 Плагин для автоматической синхронизации цен FunPay-лотов с услугами **SMMWay**.
@@ -268,4 +266,4 @@ smm: on
 
 Проект распространяется под лицензией **GPL-3.0**.
 
-Текущая версия основана на первоначальном проекте `smmway_autosync` и значительно переработана.
+Текущая версия основана на первоначальном проекте [smmway_autosync](https://github.com/uNoless/smmway_autosync) и значительно переработана.
